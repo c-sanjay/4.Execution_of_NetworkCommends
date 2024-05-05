@@ -1,4 +1,6 @@
 # 4.Execution_of_NetworkCommands
+## NAME : SANJAY.C
+## REGISTER NUMBER : 212223240150
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
